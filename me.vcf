@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Berbiche;Bahïa;;;
+FN:Bahïa Berbiche
+ORG:ISSAÏ
+TITLE:Communication digitale
+TEL;TYPE=CELL,VOICE:+33642293582
+EMAIL;TYPE=INTERNET:contact@issai.fr
+URL:https://www.issai.fr
+item1.URL;type=pref:https://www.linkedin.com/in/bah%C3%AFa-berbiche/
+item1.X-ABLabel:LinkedIn
+END:VCARD
